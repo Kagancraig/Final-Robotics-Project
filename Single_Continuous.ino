@@ -26,6 +26,7 @@ servo2.write(180);
 delay(800);
 servo2.write(0);
 delay(800);
+  Zade
 
 
 
